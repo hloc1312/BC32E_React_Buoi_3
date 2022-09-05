@@ -1,0 +1,16 @@
+.shoe-left a{
+    display: block;
+    color: #000;
+    padding: 16px 6px;
+
+}
+
+.shoe-left a:hover{
+    color: aqua;
+    border: 1px solid aqua;
+}
+
+.shoe-left a.active{
+    color: aqua;
+    border: 1px solid aqua;
+}
